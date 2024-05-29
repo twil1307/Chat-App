@@ -10,7 +10,7 @@ npm i
 npm start
 ```
 
-- At client
+- At client (open another terminal)
 
 ```
 cd websocket-chat-box
